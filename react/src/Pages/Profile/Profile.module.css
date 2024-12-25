@@ -1,0 +1,37 @@
+.profileContainer {
+    margin-left: 701px;
+    margin-right: 701px;
+    box-shadow: 1px 1px 10px 1px black;
+    border-radius: 30px;
+}
+
+.h1 {
+    color: #C1391E;
+    font-size: 40px;
+    margin-left: 90px;
+}
+
+.p {
+    font-size: x-large;
+    font-weight: 400;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+
+.logoutButton {
+    margin-left: 70px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: transform 350ms ease;
+    box-shadow: 10px 10px 10px 1px black;
+    color: #C1391E;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.div {
+    margin-left: 400px;
+    font-size: 40px;
+    color: #C1391E;
+}
